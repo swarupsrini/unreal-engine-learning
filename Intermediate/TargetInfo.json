@@ -1,4 +1,14 @@
 {
-	"Targets": [
-	]
+  "Targets": [
+    {
+      "Name": "EscapeRoom",
+      "Path": "G:\\Unreal Projects\\EscapeRoom\\Source\\EscapeRoom.Target.cs",
+      "Type": "Game"
+    },
+    {
+      "Name": "EscapeRoomEditor",
+      "Path": "G:\\Unreal Projects\\EscapeRoom\\Source\\EscapeRoomEditor.Target.cs",
+      "Type": "Editor"
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 {
-	"SourceFiles": [
-		"G:\\03_BuildingEscape-master\\BuildingEscape\\Source\\BuildingEscape\\BuildingEscape.Build.cs",
-		"G:\\03_BuildingEscape-master\\BuildingEscape\\Source\\BuildingEscape.Target.cs",
-		"G:\\03_BuildingEscape-master\\BuildingEscape\\Source\\BuildingEscapeEditor.Target.cs"
-	],
-	"EngineVersion": "4.25.1"
+  "SourceFiles": [
+    "G:\\Unreal Projects\\EscapeRoom\\Source\\EscapeRoom\\EscapeRoom.Build.cs",
+    "G:\\Unreal Projects\\EscapeRoom\\Source\\EscapeRoom.Target.cs",
+    "G:\\Unreal Projects\\EscapeRoom\\Source\\EscapeRoomEditor.Target.cs"
+  ],
+  "EngineVersion": "4.25.3"
 }
