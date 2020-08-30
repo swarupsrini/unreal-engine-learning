@@ -12,7 +12,7 @@ I've been a fan of escape rooms ever since I was a child. So I decided to bring 
 
 ## Development 
 
-Developed by myself. Utilizes C++ code in Unreal Engine along with the visual scripting Blueprint system to build the game. The C++ code can be found in the `Source/BuildingEscape` folder.
+Developed by myself. Utilizes C++ code in Unreal Engine along with the visual scripting Blueprint system to build the game. The C++ code can be found in the `Source/EscapeRoom` folder.
 
 ## Demo
 
