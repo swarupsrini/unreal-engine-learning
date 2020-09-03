@@ -1,6 +1,6 @@
 # Escape Room Puzzle Game
 
-An escape room style game where the player interacts with the environment using a 'grabbing' system to move around objects and escape the room!
+An escape room style game where the player interacts with the environment using a 'grabbing' system to move around objects and escape the room! This project is under construction.
 
 ## Tech
 
